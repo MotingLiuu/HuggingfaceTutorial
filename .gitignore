@@ -1,0 +1,7 @@
+*.bin
+*.bin.optim
+*.params
+*.predictions
+/model/rbt3
+/trainer/checkpoints
+/trainer/rbt3
